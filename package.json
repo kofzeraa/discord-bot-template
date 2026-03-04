@@ -1,0 +1,12 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "Template simples de bot Discord para hospedagem em plataformas com Docker.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
